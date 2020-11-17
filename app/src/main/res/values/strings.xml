@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaRecorder2</string>
+    <string name="btnGrabar">Iniciar grabación</string>
+    <string name="btnReproducir">Iniciar audio</string>
+</resources>
